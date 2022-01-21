@@ -1,2 +1,2 @@
-## DataStructures_in_C_acad_CodeDump
-Acad practice codes of ds in C.
+## DS_in_C_CodeDump
+Dumped all acad practice codes of ds in C here!
